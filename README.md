@@ -6,8 +6,6 @@ I do stuff for my own, I like making things easier.<br><br>
 [Betterfox, but some changes](<https://github.com/TeamDominant/Betterfox>)<br><br>
 [TUSUR IT Labs / ТУСУР ИТ Лабораторные работы 1 курс](<https://github.com/prettyleaf/IT-Labs>)<br><br>
 [TUSUR OOP Labs / ТУСУР ООП Лабораторные работы и практики 2 курс](<https://github.com/TeamDominant/OOP>)<br><br>
-[Betterfox (sandbox)](<https://github.com/prettyleaf/Betterfox>)<br><br>
-[Nextcloud Step-by-step (non-docker)](<https://github.com/prettyleaf/nextcloud.amdcloud>)<br><br>
 [![](https://visitcount.itsvg.in/api?id=prettyleaf&icon=0&color=3)](https://visitcount.itsvg.in)
 </h3>
 
