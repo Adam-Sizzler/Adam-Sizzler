@@ -25,7 +25,7 @@ I do stuff for my own, I like making things easier.<br><br>
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prettyleaf&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=9">
+  <img src="https://github-profile-trophy.vercel.app/?username=prettyleaf&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
 </p>
 
 ###
