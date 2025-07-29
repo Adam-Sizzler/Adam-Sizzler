@@ -9,9 +9,7 @@
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam-Sizzler&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
 </a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Adam-sizzler&theme=transparent&hide_border=true" />
-</a></p>
+</p>
 
 ###
 
