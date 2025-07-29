@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam-Sizzler&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Adam-Sizzler&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Adam-sizzler&theme=transparent&hide_border=true" />
 </a></p>
 
 ###
@@ -25,7 +25,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="haproxy logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="shell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  />
   <img width="12" />
 </div>
 
