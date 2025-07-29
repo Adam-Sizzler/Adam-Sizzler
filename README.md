@@ -1,54 +1,31 @@
 <h1 align="center">
-  🐉 prettyleaf / intermediate dev </h1>
-<h3 align="center">
-I do stuff for my own, I like making things easier.<br><br>
-18th of April, 2005.<br><br>
-
-[@TeamDominant](https://github.com/TeamDominant) Founder.<br><br>
-[TUSUR IT Labs / ТУСУР ИТ Лабораторные работы 1 курс](<https://github.com/prettyleaf/IT-Labs>)<br><br>
-[TUSUR OOP Labs / ТУСУР ООП Лабораторные работы, практики и экзамен 2 курс](<https://github.com/TeamDominant/OOP>)<br><br>
-</h3>
-<h1></h1>
+  Adam Sizzler </h1>
 
 ###
 
 <p align="center"><a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prettyleaf&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en"" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adam-Sizzler&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en"" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prettyleaf&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam-Sizzler&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=prettyleaf&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Adam-Sizzler&theme=transparent&hide_border=true" />
 </a></p>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prettyleaf&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adam-Sizzler&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
 </p>
 <h1></h1>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="haproxy logo"  />
   <img width="12" />
 </div>
 
@@ -58,8 +35,6 @@ I do stuff for my own, I like making things easier.<br><br>
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cf logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=debian" height="40" alt="debian logo"  />
   <img width="12" />
