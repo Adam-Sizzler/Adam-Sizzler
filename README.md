@@ -3,16 +3,6 @@
 
 ###
 
-<p align="center"><a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adam-Sizzler&theme=transparent&show_icons=true&hide_border=true&count_private=true&locale=en"" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adam-Sizzler&theme=transparent&layout=compact&hide_border=true&langs_count=8&card_width=320" />
-</a>
-</p>
-
-###
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adam-Sizzler&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
 </p>
