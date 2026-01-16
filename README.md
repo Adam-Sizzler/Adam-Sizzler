@@ -3,19 +3,14 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adam-Sizzler&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=9">
-</p>
-<h1></h1>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="shell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="40" alt="golang logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
   <img width="12" />
 </div>
 
