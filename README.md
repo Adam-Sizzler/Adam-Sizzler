@@ -4,6 +4,17 @@
 ###
 
 <div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adam-Sizzler&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Sizzler&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Sizzler&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adam-Sizzler&theme=github_dark)
+
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="shell logo"  />
@@ -46,7 +57,7 @@
 ###
 
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prettyleaf/prettyleaf/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adam-Sizzler/Adam-Sizzler/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adam-Sizzler/Adam-Sizzler/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adam-Sizzler/Adam-Sizzler/output/github-snake-dark.svg">
 </picture></p>
